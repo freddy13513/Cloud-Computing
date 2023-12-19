@@ -21,3 +21,5 @@
 
 https://www.salesforce.com/mx/cloud-computing/ 
 
+## Licencia
+![image](/img/licencia.PNG)

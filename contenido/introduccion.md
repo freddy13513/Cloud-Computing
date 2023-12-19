@@ -1,7 +1,8 @@
+# Introducción
 
 ![image](/img/22.jpg)
 
-¿Qué es Cloud Computing?
+**¿Qué es Cloud Computing?**
 
 El mundo del software está en constante cambio y evolución. Cuando Salesforce fue creada, en 1999, se trataba del primer servicio empresarial en ofrecer aplicaciones de negocios en un sitio web, que acabó por ser llamado por el mercado computación en la nube, o cloud computing. Desde entonces, Salesforce ha sido la pionera en este tipo de servicio para pequeñas, medianas y grandes empresas.
 
